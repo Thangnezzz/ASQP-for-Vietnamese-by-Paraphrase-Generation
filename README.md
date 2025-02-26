@@ -7,6 +7,6 @@ Our dataset was collected on Youtube videos about Rap Viet season 3 by using You
 See dataset [here](https://www.kaggle.com/datasets/cthng123/as-quad-predictions-vietnamese-dataset) 
 
 ## Approach
-We use the **Paraphrase Generation** method presented in **Aspect Sentiment Quad Pre dictions as Paraphrase Generation paper (Zhang et al., 2021)**. With an input comment, aspect sentiment quad predictions (ASQP) aims to predict aspect category aspect term, opinion term, and sentiment polarity. This method paraphrases the input comment to neglect unnecessary details and highlight the major sentiment elements: **Aspect category là Sentiment polarity bởi vì Aspect term là Opinion term.**
+We use the **Paraphrase Generation** method presented in **Aspect Sentiment Quad Predictions as Paraphrase Generation paper (Zhang et al., 2021)**. With an input comment, aspect sentiment quad predictions (ASQP) aims to predict aspect category aspect term, opinion term, and sentiment polarity. This method paraphrases the input comment to neglect unnecessary details and highlight the major sentiment elements: **Aspect category là Sentiment polarity bởi vì Aspect term là Opinion term.**
 
 For Vietnamese text generation, we use two models: ViT5 and BARTPho
