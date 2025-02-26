@@ -4,4 +4,4 @@ Reality shows have become an indispensable part in many people’s lives, it bri
 ## Dataset
 Our dataset was collected on Youtube videos about Rap Viet season 3 by using Youtube API provided by Google and Selenium library in Python. We chose Rap Viet because it is the most popular competitive reality show in Vietnam, it has many controversies from the viewers about many entities that appear in the show. Our dataset includes 3033 comments crawled from a playlist including 118 videos about Rap Viet in season 3. About sentiment polarity, we design it with 3 labels: Positive, Negative and Neutral. For the aspect category detection, we design this subtask with 8 aspects including: Candidate voice, Candidate flow, Candidate general, Candidate dancing, Examiner general, Show stage, Show general and Music. We also have an aspect named Others to detect spam or comments that do not have any aspect or sentiment.
 
-See dataset here
+See dataset [here](https://www.kaggle.com/datasets/cthng123/as-quad-predictions-vietnamese-dataset) 
